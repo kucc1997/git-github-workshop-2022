@@ -27,6 +27,7 @@
 .header-title {
   text-align: center;
   padding-top: 2%;
+  border-bottom: 1px solid #fff;
 }
 
 .footer {
@@ -42,4 +43,5 @@
 
 .footer p {
   color: #38c0ce;
+  font-size: 1.2rem;
 }
