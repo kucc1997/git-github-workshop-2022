@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "department": "DOCSE",
+        "bio": "I love programming!"
+    },
+    {
+        "id": 2,
+        "name": "John Doe",
+        "department": "DOCSE",
+        "bio": "I love programming!"
+    },
+    {
+        "id": 3,
+        "name": "John Doe",
+        "department": "DOCSE",
+        "bio": "I love programming!"
+    },
+    {
+        "id": 4,
+        "name": "John Doe",
+        "department": "DOCSE",
+        "bio": "I love programming!"
+    }
+]
