@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  background-color: #e4e9e8;
+  min-height: 100vh;
+  min-width: 100%;
+}
+
+.main-content {
+  margin: 0 4% 4% 4%;
+}
+
+.card-list {
+  display: flex;
+  flex-wrap: wrap;
+}
