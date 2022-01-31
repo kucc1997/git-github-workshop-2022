@@ -1,11 +1,4 @@
 [
-    {
-        "name": "John Doe",
-        "batch": 2018,
-        "faculty": "Computer Engineering",
-        "bio": "I love programming!",
-        "email": "a@domain.com"
-    },
         {
         "name": "Sabin Thapa",
         "batch": 2018,
