@@ -12,5 +12,12 @@
         "faculty": "Computer Science",
         "bio": "Hackathons! Community! Music!",
         "email": "sagarupreti100@gmail.com"
-    }
+    },
+    {
+      "name": "Bikraj Shrestha",
+      "batch": 2020,
+      "faculty": "Computer Science",
+      "bio": "Who doenot love coding",
+      "email": "something@gmail.com"
+  }
 ]
