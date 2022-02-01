@@ -12,5 +12,12 @@
         "faculty": "Computer Science",
         "bio": "Hackathons! Community! Music!",
         "email": "sagarupreti100@gmail.com"
-    }
+    },
+    {
+      "name": "Nirjal Bhurtel",
+      "batch": 2021,
+      "faculty": "Computer Engineering",
+      "bio": "Human",
+      "email": "sunnynirjal@gmail.com"
+  }
 ]
