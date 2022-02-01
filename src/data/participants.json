@@ -12,5 +12,12 @@
         "faculty": "Computer Science",
         "bio": "Hackathons! Community! Music!",
         "email": "sagarupreti100@gmail.com"
-    }
+    },
+    {
+      "name": "Sadikshya Pokharel",
+      "batch": 2020,
+      "faculty": "Computer Engineering",
+      "bio": "Student",
+      "email": "psaishya@gmail.com"
+  }
 ]
