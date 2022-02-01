@@ -12,5 +12,12 @@
         "faculty": "Computer Science",
         "bio": "Hackathons! Community! Music!",
         "email": "sagarupreti100@gmail.com"
-    }
+    },
+    {
+      "name": "Amar Dura",
+      "batch": 2021,
+      "faculty": "Computer Engineering",
+      "bio": "Software Engineering! App Development! Social Work!",
+      "email": "dura.email@gmail.com"
+  }
 ]
