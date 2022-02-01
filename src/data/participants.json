@@ -26,5 +26,13 @@
       "faculty": "Computer Engineering",
       "bio": "Student",
       "email": "psaishya@gmail.com"
+  },
+  
+    {
+      "name": "Aakriti kc",
+      "batch": 2019,
+      "faculty": "Computational Mathematics",
+      "bio": "Student",
+      "email": "aakriti.kc2076@gmail.com"
   }
 ]
