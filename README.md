@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git & GitHub: All you need to know
 
 **Welcome everyone! This is a profile-card website made with React.js for Git-GitHub Workshop**
@@ -14,6 +15,9 @@ Once cloned, open the project directory and run the following commands:
 npm i
 npm run start 
 ```
+=======
+# Git & GitHub Workshop - User Cards (React)
+>>>>>>> c251c0b20a067acdaf041f4f886f4b1fdc76cbfc
 
 ## How to contribute?
 
