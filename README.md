@@ -15,7 +15,7 @@ Once cloned, open the project directory and run the following commands:
 npm i
 npm run start 
 ```
-=======
+
 # Git & GitHub Workshop - User Cards (React)
 
 
