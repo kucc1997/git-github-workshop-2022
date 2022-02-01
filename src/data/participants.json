@@ -26,5 +26,12 @@
       "faculty": "Computer Engineering",
       "bio": "Student",
       "email": "psaishya@gmail.com"
+  },
+    {
+      "name": "Gaurab Shrestha",
+      "batch": 2018,
+      "faculty": "Computer Engineering",
+      "bio": "Football, Travelling & Coding",
+      "email": "gaurabstha001@gmail.com"
   }
 ]
