@@ -12,5 +12,12 @@
         "faculty": "Computer Science",
         "bio": "Hackathons! Community! Music!",
         "email": "sagarupreti100@gmail.com"
+    },
+      {
+        "name": "Bibhushan Saakha",
+        "batch": 2020,
+        "faculty": "Computer Engineering",
+        "bio": "UI UX",
+        "email": "bibhushansaakha@gmail.com.com"
     }
 ]
