@@ -12,5 +12,12 @@
         "faculty": "Computer Science",
         "bio": "Hackathons! Community! Music!",
         "email": "sagarupreti100@gmail.com"
-    }
+    },
+      {
+      "name": "Om Prakash Sharma",
+      "batch": 2021,
+      "faculty": "Computer Engineering",
+      "bio": "Technology lover",
+      "email": "om.772417@thc.tu.edu.np"
+  }
 ]
