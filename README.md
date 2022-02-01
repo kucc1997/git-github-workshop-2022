@@ -1,4 +1,5 @@
-# Git & GitHub Workshop - User Cards
+# Git & GitHub Workshop - User Cards (React)
+
 ## How to contribute?
 
 - [Submit bugs and feature requests](https://github.com/kucc1997/git-github-workshop-2022/issues)
