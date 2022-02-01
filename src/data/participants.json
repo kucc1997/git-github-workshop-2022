@@ -12,5 +12,12 @@
         "faculty": "Computer Science",
         "bio": "Hackathons! Community! Music!",
         "email": "sagarupreti100@gmail.com"
+    },
+     {
+        "name": "Roshan Sahani",
+        "batch": 2020,
+        "faculty": "Computer Engineering",
+        "bio": "Hacking! Chess! Music!",
+        "email": "roshansahani226@gmail.com"
     }
 ]
