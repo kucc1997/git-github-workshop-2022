@@ -12,7 +12,7 @@ The project requries [Node.js](https://nodejs.org/en/download/) v14 or above.
 Once cloned, open the project directory and run the following commands:
 
 ```
-npm i
+npm install
 npm run start 
 ```
 
