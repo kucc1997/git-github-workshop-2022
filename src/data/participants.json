@@ -19,5 +19,19 @@
     "faculty": "Computer Engineering",
     "bio": "Programming with a Music",
     "email": "eroj.nyoupane2@gmail.com"
+  },
+      {
+        "name": "Shreya Shrestha",
+        "batch": 2018,
+        "faculty": "Computer Science",
+        "bio": "I love coding and reading books",
+        "email": "shreya2057@gmail.com"
+    },
+    {
+      "name": "Sadikshya Pokharel",
+      "batch": 2020,
+      "faculty": "Computer Engineering",
+      "bio": "Student",
+      "email": "psaishya@gmail.com"
   }
 ]

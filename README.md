@@ -12,11 +12,13 @@ The project requries [Node.js](https://nodejs.org/en/download/) v14 or above.
 Once cloned, open the project directory and run the following commands:
 
 ```
-npm i
+npm install
 npm run start 
 ```
 
-# Git & GitHub Workshop - User Cards (React)
+# Website Link
+
+https://kucc-git-github-2022.netlify.app/
 
 
 ## How to contribute?
