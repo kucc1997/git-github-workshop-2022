@@ -1,23 +1,44 @@
 [
-        {
-        "name": "Sabin Thapa",
-        "batch": 2018,
-        "faculty": "Computer Engineering",
-        "bio": "I love programming!",
-        "email": "sabint017@gmail.com"
-    },
+  {
+    "name": "Sabin Thapa",
+    "batch": 2018,
+    "faculty": "Computer Engineering",
+    "bio": "I love programming!",
+    "email": "sabint017@gmail.com"
+  },
+  {
+    "name": "Sagar Uprety",
+    "batch": 2018,
+    "faculty": "Computer Science",
+    "bio": "Hackathons! Community! Music!",
+    "email": "sagarupreti100@gmail.com"
+  },
+  {
+    "name": "Bisheshwor Neupane",
+    "batch": 2018,
+    "faculty": "Computer Engineering",
+    "bio": "Programming with a Music",
+    "email": "eroj.nyoupane2@gmail.com"
+  },
       {
-        "name": "Sagar Uprety",
+        "name": "Shreya Shrestha",
         "batch": 2018,
         "faculty": "Computer Science",
-        "bio": "Hackathons! Community! Music!",
-        "email": "sagarupreti100@gmail.com"
+        "bio": "I love coding and reading books",
+        "email": "shreya2057@gmail.com"
     },
     {
+      "name": "Sadikshya Pokharel",
+      "batch": 2020,
+      "faculty": "Computer Engineering",
+      "bio": "Student",
+      "email": "psaishya@gmail.com"
+  },
+  {
       "name": "Amar Dura",
       "batch": 2021,
       "faculty": "Computer Engineering",
-      "bio": "Software Engineering! App Development! Social Work!",
+      "bio": "Software Engineering",
       "email": "dura.email@gmail.com"
   }
 ]

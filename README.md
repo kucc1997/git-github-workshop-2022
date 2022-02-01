@@ -16,7 +16,9 @@ npm install
 npm run start 
 ```
 
-# Git & GitHub Workshop - User Cards (React)
+# Website Link
+
+https://kucc-git-github-2022.netlify.app/
 
 
 ## How to contribute?
