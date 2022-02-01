@@ -19,5 +19,12 @@
       "faculty": "Computer Engineering",
       "bio": "Student",
       "email": "psaishya@gmail.com"
-  }
+  },
+  {
+    "name": "Prajwal Adhikari",
+    "batch": 2020,
+    "faculty": "Computer Science",
+    "bio": "Programming!",
+    "email": "prazolppp@gmail.com"
+}
 ]
