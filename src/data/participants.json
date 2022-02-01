@@ -12,5 +12,12 @@
         "faculty": "Computer Engineering",
         "bio": "I love programming!",
         "email": "sabint017@gmail.com"
+    },
+    {
+        "name": "Ankush",
+        "batch": 2019,
+        "faculty": "Computer Engineering",
+        "bio": "PEARL JAM BABY",
+        "email": "ankushdonthavemail@gmail.com"
     }
 ]
