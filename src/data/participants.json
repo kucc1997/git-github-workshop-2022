@@ -33,5 +33,12 @@
       "faculty": "Computer Engineering",
       "bio": "Student",
       "email": "psaishya@gmail.com"
-  }
+  },
+  {
+    "name": "Om Prakash Sharma",
+    "batch": 2021,
+    "faculty": "Computer Engineering",
+    "bio": "Student",
+    "email": "om.772417@thc.tu.edu.np"
+}
 ]
