@@ -12,5 +12,12 @@
         "faculty": "Computer Science",
         "bio": "Hackathons! Community! Music!",
         "email": "sagarupreti100@gmail.com"
-    }
+    },
+    {
+      "name": "Jyoti Sharma",
+      "batch": 2018,
+      "faculty": "BEIT",
+      "bio": "Mobile App Developer | loves coding at any time of day",
+      "email": "adkjyoti55@gmail.com"
+  }
 ]
