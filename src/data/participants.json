@@ -12,5 +12,12 @@
         "faculty": "Computer Science",
         "bio": "Hackathons! Community! Music!",
         "email": "sagarupreti100@gmail.com"
-    }
+    }, 
+    {
+      "name": "Ishar Maharjan",
+      "batch": 2018,
+      "faculty": "Computer Engineering",
+      "bio": "Git Workshop Attendee",
+      "email": "isharmaharjan123@gmail.com"
+  }
 ]
