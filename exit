@@ -1,0 +1,308 @@
+[33mcommit e9dbb70c7a9b7ade8a722983aa8c14cfea789e3d[m[33m ([m[1;36mHEAD -> [m[1;32mbeebot[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Feb 1 21:19:03 2022 +0545
+
+    Update Header.js
+
+[33mcommit ff8f1544c42ca208e2f96c2c6b8539e351b44584[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Feb 1 21:13:23 2022 +0545
+
+    Update Header.js
+
+[33mcommit 077fe5aa264d99a5aeab8e4a7eb67744baa1f7d8[m
+Merge: 955584b e4bdd2d
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Feb 1 21:03:09 2022 +0545
+
+    Merge pull request #18 from KabichNeu/bsheshwor
+    
+    added my data in participants.json
+
+[33mcommit e4bdd2df6ef63129e2596afababd2fef36163713[m
+Merge: d387164 955584b
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Feb 1 21:02:58 2022 +0545
+
+    Merge branch 'main' into bsheshwor
+
+[33mcommit 955584beb8f12d67453196b63ed4ee9669fb6a70[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Feb 1 19:21:36 2022 +0545
+
+    Update Header.js
+
+[33mcommit 669591d5059094c62f40c7480d4bba3088e12c79[m
+Merge: e776cd4 c3ddb16
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Feb 1 19:14:19 2022 +0545
+
+    Merge pull request #17 from shreya2057/shreya
+    
+    Update participants.json
+
+[33mcommit c3ddb16f7e57eb9c0a14559007b735eb7bbd6590[m
+Merge: f07e7ac e776cd4
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Feb 1 19:14:03 2022 +0545
+
+    Merge branch 'main' into shreya
+
+[33mcommit e776cd4ce2dd84f3356564fab6129c9fbf63dcdc[m
+Merge: 185fb24 802fdf2
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Feb 1 18:38:53 2022 +0545
+
+    Merge pull request #20 from psaishya/main
+    
+    Added my card
+
+[33mcommit 802fdf20c219f4bec51a4f13f280bba66f6fbf81[m
+Author: Sadikshya <pasishya@gmail.com>
+Date:   Tue Feb 1 18:30:11 2022 +0545
+
+    added card
+
+[33mcommit f07e7accc73b529b234ec4958392082fdb7b769d[m
+Merge: 4c0383f 185fb24
+Author: shreya2057 <shreya2057@gmail.com>
+Date:   Tue Feb 1 18:27:10 2022 +0545
+
+    Merge branch 'main' of https://github.com/kucc1997/git-github-workshop-2022 into shreya
+
+[33mcommit 4c0383fd1db7d37539d3e09c28728017b7c097ee[m
+Author: shreya2057 <shreya2057@gmail.com>
+Date:   Tue Feb 1 18:24:17 2022 +0545
+
+    Updating Participants.json
+
+[33mcommit 185fb24e31641355fde630a5cf28cd63b48aa55e[m
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Tue Feb 1 18:17:46 2022 +0545
+
+    Update README.md
+
+[33mcommit c4d80e681d177073b0a09b5723ae558cb7d7f20a[m
+Merge: c2cd759 0abe424
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Tue Feb 1 18:16:00 2022 +0545
+
+    Merge pull request #9 from sabint017/issue6
+    
+    added the notion link
+
+[33mcommit c2cd759713a4ef6662c0fc31bbb351eb2e36fda7[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Feb 1 18:09:55 2022 +0545
+
+    Update README.md
+
+[33mcommit 0abe4240d99714ce84723d8bd2b6905e2d0e0282[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Feb 1 18:08:51 2022 +0545
+
+    added the notion link
+
+[33mcommit d387164f49e0c47845e7fbb1e49a3829dc9eabe1[m
+Author: Bisheshwor Neupane <kabichneu@gmail.com>
+Date:   Tue Feb 1 17:12:01 2022 +0545
+
+    added my data in participants.json
+
+[33mcommit f7b18063e60b13338ad59bfa617bf5a8ccba3cd6[m
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Tue Feb 1 15:27:46 2022 +0545
+
+    Update README.md
+
+[33mcommit 64003dee582487eb35592090fcaf58fa2eb9e7d2[m
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Tue Feb 1 15:27:25 2022 +0545
+
+    Update README.md
+
+[33mcommit 42a0b14a7b8de248997969eac8c4a7faf9d64860[m
+Merge: c251c0b 8927e5c
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Tue Feb 1 15:27:07 2022 +0545
+
+    Merge pull request #8 from sagar-uprety/readme
+    
+    Readme
+
+[33mcommit 8927e5c4beb6e681b93f16ba6ea9a3a41c8d6574[m
+Merge: 9985a6b c251c0b
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Tue Feb 1 15:25:45 2022 +0545
+
+    Merge branch 'main' of https://github.com/kucc1997/git-github-workshop-2022 into readme
+
+[33mcommit 9985a6b981957385c2f3b7b572bac52ae308bb03[m
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Tue Feb 1 15:20:32 2022 +0545
+
+    Update README.md
+
+[33mcommit c251c0b20a067acdaf041f4f886f4b1fdc76cbfc[m
+Merge: b85d452 64f0df0
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Tue Feb 1 15:00:46 2022 +0545
+
+    Merge pull request #5 from sabint017/main
+    
+    edit README
+
+[33mcommit 64f0df0d8ed412c1f7feff179a4daad290604b33[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Feb 1 10:07:49 2022 +0545
+
+    edit README
+
+[33mcommit b85d4526d77447567ea2286714f10adff0f893ab[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Mon Jan 31 20:55:34 2022 +0545
+
+    Update participants.json
+
+[33mcommit 471cae9389d66cce1930ce4a0ca77daacf093418[m
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Mon Jan 31 20:29:49 2022 +0545
+
+    Update participants.json
+
+[33mcommit 823d0499edeec2ec58744dcceb9154139544f134[m
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Mon Jan 31 19:55:57 2022 +0545
+
+    Delete main_githubku.yml
+
+[33mcommit 4489bb3475b4d802556f56058d35eaa2154e8b06[m
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Mon Jan 31 18:40:53 2022 +0545
+
+    ci: add Azure Static Web Apps workflow file
+    on-behalf-of: @Azure opensource@microsoft.com
+
+[33mcommit d6b8ecc43127f69a2eb7bd0ef76c93dddbc317ac[m
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Wed Jan 26 15:10:00 2022 +0545
+
+    Add or update the Azure App Service build and deployment workflow config
+
+[33mcommit 10a7cf3b1c1a120deae17e6d524e6eeb341cab2d[m
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Wed Jan 26 15:09:45 2022 +0545
+
+    Delete .github/workflows directory
+
+[33mcommit d6e0d60528bcdda75a16f31f48aeb430fc89a1f8[m
+Merge: 00ce86b 2d5d722
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Wed Jan 26 15:07:23 2022 +0545
+
+    Merge pull request #3 from sagar-uprety/change-files
+    
+    Removed tests
+
+[33mcommit 2d5d7229dcac39e42867ef81272d9e23fe46eee0[m
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Wed Jan 26 15:04:32 2022 +0545
+
+    tests removed
+
+[33mcommit 00ce86bf50fa020239243afce2dcb54e48a804d2[m
+Author: Sagar Uprety <sagarupreti100@gmail.com>
+Date:   Wed Jan 26 14:28:12 2022 +0545
+
+    ci: add Azure Static Web Apps workflow file
+    on-behalf-of: @Azure opensource@microsoft.com
+
+[33mcommit ae996da1af2b54525dbe992160f72e7aa35b95e7[m
+Author: kuccofficial <52454216+kuccofficial@users.noreply.github.com>
+Date:   Wed Jan 26 14:24:20 2022 +0545
+
+    Remove the Azure App Service build and deployment workflow config
+
+[33mcommit 453e014921aa0f0ac28661ff13a1122232baeaba[m
+Author: kuccofficial <52454216+kuccofficial@users.noreply.github.com>
+Date:   Wed Jan 26 14:11:31 2022 +0545
+
+    Add or update the Azure App Service build and deployment workflow config
+
+[33mcommit 100e4ed341a550b1cd45982b087eda1ce558b282[m
+Merge: 2554c50 3066a15
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Wed Jan 26 12:42:23 2022 +0545
+
+    Merge pull request #1 from sabint017/master
+    
+    add data - Sabin Thapa
+
+[33mcommit 3066a15ce6a4c464f19dbbf5729101caa2aa52c5[m
+Merge: 2554c50 0cce3d7
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Wed Jan 26 12:41:09 2022 +0545
+
+    Merge pull request #1 from sabint017/sabint017-patch-1
+    
+    Add my data to the json file
+
+[33mcommit 0cce3d78246508cee61109450404de0348e2ba81[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Wed Jan 26 12:40:50 2022 +0545
+
+    Add my data to the json file
+
+[33mcommit 2554c5022f8362f47a429e6de9378d9cdae0917e[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Wed Jan 26 12:33:03 2022 +0545
+
+    Update README.md
+
+[33mcommit e5ce3f5129618a52f6cfa9dd6de59431a3443dea[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Jan 25 20:35:59 2022 +0545
+
+    add final fixes
+
+[33mcommit 1cb7813888c640fecc234f8e503059d2a76a074e[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Jan 25 20:33:05 2022 +0545
+
+    fix json
+
+[33mcommit a3f875ba9d048136f364b17cfb90f92742928ab1[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Jan 25 20:32:09 2022 +0545
+
+    add footer
+
+[33mcommit 6cc86f2356123360d6ea80dddc9ed0e9cc2c61f5[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Jan 25 20:01:32 2022 +0545
+
+    add KUCC logo to the title bar
+
+[33mcommit 03218753b06e233a88ddbfa570a0a9eb37e8f10b[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Jan 25 20:00:13 2022 +0545
+
+    add basic stylings
+
+[33mcommit f790c22f1ab515c5b4e37e6b12277ab704c57390[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Jan 25 19:06:35 2022 +0545
+
+    add component UserCard
+
+[33mcommit 2afa9edf29424fa988e7697b5eeda958d1477d9c[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Jan 25 18:34:27 2022 +0545
+
+    setup react-project
+
+[33mcommit 87937056379d005fd1688beb69329bb8caa8348b[m
+Author: Sabin Thapa <sabint017@gmail.com>
+Date:   Tue Jan 25 17:42:13 2022 +0545
+
+    Initialize project using Create React App
