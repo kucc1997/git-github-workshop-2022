@@ -12,5 +12,12 @@
         "faculty": "Computer Science",
         "bio": "Hackathons! Community! Music!",
         "email": "sagarupreti100@gmail.com"
-    }
+    },
+    {
+      "name": "Bishal Neupane",
+      "batch": 2020,
+      "faculty": "Computer Engineering",
+      "bio": "I love custom ROMs",
+      "email": "neupanebishal2001@gmail.com"
+  }
 ]
