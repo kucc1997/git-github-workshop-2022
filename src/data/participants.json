@@ -1,16 +1,23 @@
 [
-        {
-        "name": "Sabin Thapa",
-        "batch": 2018,
-        "faculty": "Computer Engineering",
-        "bio": "I love programming!",
-        "email": "sabint017@gmail.com"
-    },
-      {
-        "name": "Sagar Uprety",
-        "batch": 2018,
-        "faculty": "Computer Science",
-        "bio": "Hackathons! Community! Music!",
-        "email": "sagarupreti100@gmail.com"
-    }
+  {
+    "name": "Sabin Thapa",
+    "batch": 2018,
+    "faculty": "Computer Engineering",
+    "bio": "I love programming!",
+    "email": "sabint017@gmail.com"
+  },
+  {
+    "name": "Sagar Uprety",
+    "batch": 2018,
+    "faculty": "Computer Science",
+    "bio": "Hackathons! Community! Music!",
+    "email": "sagarupreti100@gmail.com"
+  },
+  {
+    "name": "Ayush Regmi",
+    "batch": 2020,
+    "faculty": "Computer Engineering",
+    "bio": "Programming! Music! Movies!",
+    "email": "ayushregmi736@gmail.com"
+  }
 ]
