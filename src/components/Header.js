@@ -8,6 +8,7 @@ const Header = () => {
       <h1 style={{ color: "#373F5F" }}>
         KUCC - Git and Github : All you need to know!{" "}
       </h1>
+      <p>Link: https://bit.ly/githubcontentku</p>
     </div>
   );
 };
