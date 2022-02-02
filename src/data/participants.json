@@ -20,14 +20,14 @@
     "bio": "Programming with a Music",
     "email": "eroj.nyoupane2@gmail.com"
   },
-      {
+  {
         "name": "Shreya Shrestha",
         "batch": 2018,
         "faculty": "Computer Science",
         "bio": "I love coding and reading books",
         "email": "shreya2057@gmail.com"
-    },
-    {
+   },
+   {
       "name": "Sadikshya Pokharel",
       "batch": 2020,
       "faculty": "Computer Engineering",
@@ -40,5 +40,12 @@
     "faculty": "Computer Engineering",
     "bio": "/Student/Music/Guitar",
     "email": "sudeepbhattarai1792@gmail.com"
+  },
+  {
+    "name": "Om Prakash Sharma",
+    "batch": 2021,
+    "faculty": "Computer Engineering",
+    "bio": "Student",
+    "email": "om.772417@thc.tu.edu.np"
 }
 ]
