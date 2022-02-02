@@ -131,6 +131,14 @@
       "email": "psaishya@gmail.com"
   },
   {
+
+    "name": "Prashant Shrestha",
+    "batch": 2020,
+    "faculty": "Computer Science",
+    "bio": "Sports - Music - Coding",
+    "email": "prashantstha1110@gmail.com"
+  },
+  {
     "name": "Ramesh Khadka",
     "batch": 2020,
     "faculty": "BIT with Technopreneurship",
@@ -212,4 +220,13 @@
   "bio": "Life's too short to be dishonest.",
   "email": "nishamghimire5@gmail.com"
 },
+  {
+  "name": "Shubham Shakya",
+  "batch": 2020,
+  "faculty": "Computer Science",
+  "bio": "Programming",
+  "email": "shubhamshakya369@gmail.com"
+}
+
+
 ]
