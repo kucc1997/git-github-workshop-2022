@@ -1,7 +1,7 @@
 
 # Git & GitHub: All you need to know
 
-**Welcome everyone! This is a profile-card website made with React.js for Git-GitHub Workshop**
+**Hello everyone! This is a profile-card website made with React.js for Git-GitHub Workshop**
 <br>
 <img src="https://user-images.githubusercontent.com/51237312/151941440-36d967c9-b67a-4f38-aef6-28e4a119c71f.png" width=600 heigt=800/>
 
