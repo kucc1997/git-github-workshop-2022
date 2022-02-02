@@ -218,7 +218,14 @@
     "faculty": "Computer Science",
     "bio": "KUCC rocks!",
     "email": "nabindhakal33@gmail.com"
-  }
+  },
   
+  {
+    "name": "Shishir Kafle",
+    "batch": 2020,
+    "faculty": "Computer Science",
+    "bio": "CR7 is GOAT.",
+    "email": "shishirkafle44@gmail.com"
+  }
   ]
   
