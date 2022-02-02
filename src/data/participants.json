@@ -54,5 +54,12 @@
     "faculty": "Computer Engineering",
     "bio": "Student",
     "email": "om.772417@thc.tu.edu.np"
+},
+{
+  "name": "Nabin Khatri",
+  "batch": 2020,
+  "faculty": "Computer science",
+  "bio": "Let's learn new things!",
+  "email": "nabinkc7878@gmail.com"
 }
 ]
