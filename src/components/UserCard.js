@@ -19,14 +19,16 @@ const UserCard = ({ participant }) => {
           }
           style={{ height: 25, width: 25, marginLeft: -2 }}
         />
-        <a
-          href={participant.githubProjectUrl}
-          style={{ marginLeft: 4 }}
-          target="_blank"
-          rel="noreferrer"
-        >
-          Repository Link
-        </a>
+        {participant.githubProjectUrl && (
+          <a
+            href={participant.githubProjectUrl}
+            style={{ marginLeft: 4 }}
+            target="_blank"
+            rel="noreferrer"
+          >
+            Repository Link
+          </a>
+        )}
       </div>
     </div>
   );
