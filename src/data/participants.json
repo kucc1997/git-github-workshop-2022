@@ -41,6 +41,14 @@
       "bio": "Student",
       "email": "psaishya@gmail.com"
   },
+    {
+      "name": "Aakriti kc",
+      "batch": 2019,
+      "faculty": "Computational Mathematics",
+      "bio": "Student",
+      "email": "aakriti.kc2076@gmail.com"
+  },
+
   {
     "name": "Sudip Bhattarai",
     "batch": 2020,
@@ -55,4 +63,5 @@
     "bio": "Student",
     "email": "om.772417@thc.tu.edu.np"
 }
+
 ]
