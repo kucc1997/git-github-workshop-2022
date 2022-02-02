@@ -214,11 +214,19 @@
     "email": "anurag.timilsina@gmail.com"
 },
 {
+  "name": "Nisham Ghimire",
+  "batch": 2020,
+  "faculty": "Computer Science",
+  "bio": "Life's too short to be dishonest.",
+  "email": "nishamghimire5@gmail.com"
+},
+  {
   "name": "Shubham Shakya",
   "batch": 2020,
   "faculty": "Computer Science",
   "bio": "Programming",
   "email": "shubhamshakya369@gmail.com"
 }
+
 
 ]
