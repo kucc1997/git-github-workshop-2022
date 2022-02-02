@@ -1,190 +1,226 @@
 [
-  {
-    "name": "Sanskar Karki",
-    "batch": 2020,
-    "faculty": "Computer Science",
-    "bio": "Learning Git and Github is Fun.",
-    "email": "sanskarkarki20@gmail.com"
-  },
-  {
-    "name": "Sabin Thapa",
-    "batch": 2018,
-    "faculty": "Computer Engineering",
-    "bio": "I love programming!",
-    "email": "sabint017@gmail.com"
-  },
-  {
-    "name": "Sagar Uprety",
-    "batch": 2018,
-    "faculty": "Computer Science",
-    "bio": "Hackathons! Community! Music!",
-    "email": "sagarupreti100@gmail.com"
-  },
-  {
-    "name": "Ayush Regmi",
-    "batch": 2020,
-    "faculty": "Computer Engineering",
-    "bio": "Programming! Music! Movies!",
-    "email": "ayushregmi736@gmail.com"
-  },
-  {
-    "name": "Ashish Poudel",
-    "batch": 2018,
-    "faculty": "Computer Application",
-    "bio": "Learning , Travelling",
-    "email": "ashishpoudel523@gmail.com"
-  },
-  {
-    "name": "Bisheshwor Neupane",
-    "batch": 2018,
-    "faculty": "Computer Engineering",
-    "bio": "Programming with a Music",
-    "email": "eroj.nyoupane2@gmail.com"
-  },
-  {
-        "name": "Shreya Shrestha",
-        "batch": 2018,
-        "faculty": "Computer Science",
-        "bio": "I love coding and reading books",
-        "email": "shreya2057@gmail.com"
-       
+    {
+      "name": "Sabin Thapa",
+      "batch": 2018,
+      "faculty": "Computer Engineering",
+      "bio": "I love programming!",
+      "email": "sabint017@gmail.com"
     },
-
+    {
+      "name": "Sagar Uprety",
+      "batch": 2018,
+      "faculty": "Computer Science",
+      "bio": "Hackathons! Community! Music!",
+      "email": "sagarupreti100@gmail.com"
+    },
+      {
+      "name": "Bisheshwor Neupane",
+      "batch": 2018,
+      "faculty": "Computer Engineering",
+      "bio": "Programming with a Music",
+      "email": "eroj.nyoupane2@gmail.com"
+    },
+      {
+      "name": "Sanskar Karki",
+      "batch": 2020,
+      "faculty": "Computer Science",
+      "bio": "Learning Git and Github is Fun.",
+      "email": "sanskarkarki20@gmail.com"
+    },
+    {
+      "name": "Ayush Regmi",
+      "batch": 2020,
+      "faculty": "Computer Engineering",
+      "bio": "Programming! Music! Movies!",
+      "email": "ayushregmi736@gmail.com"
+    },
+    {
+      "name": "Ashish Poudel",
+      "batch": 2018,
+      "faculty": "Computer Application",
+      "bio": "Learning , Travelling",
+      "email": "ashishpoudel523@gmail.com"
+    },
+    {
+    "name": "Shreya Shrestha",
+    "batch": 2018,
+    "faculty": "Computer Science",
+    "bio": "I love coding and reading books",
+    "email": "shreya2057@gmail.com"
+    
+},
+      {
+        "name": "Prasun Sapkota",
+        "batch": 2020,
+        "faculty": "Computer Science",
+        "bio": "Nothing much.",
+        "email": "prasunsapkota@gmail.com"
+    },
+    {
+        "name": "Bishal Neupane",
+        "batch": 2020,
+        "faculty": "Computer Engineering",
+        "bio": "I love custom ROMs",
+        "email": "neupanebishal2001@gmail.com"
+    },
+       {
+          "name": "Roshan Sahani",
+          "batch": 2020,
+          "faculty": "Computer Engineering",
+          "bio": "Hacking! Chess! Music!",
+          "email": "roshansahani226@gmail.com"
+      },
+  
         {
-        "name": "Sabin Thapa",
-        "batch": 2018,
-        "faculty": "Computer Engineering",
-        "bio": "I love programming!",
-        "email": "sabint017@gmail.com"
-    },
+          "name": "Bibhushan Saakha",
+          "batch": 2020,
+          "faculty": "Computer Engineering",
+          "bio": "UI UX",
+          "email": "bibhushansaakha@gmail.com.com"
+      },
       {
-        "name": "Sagar Uprety",
+        "name": "Jyoti Sharma",
         "batch": 2018,
+        "faculty": "BEIT",
+        "bio": "Mobile App Developer | loves coding at any time of day",
+        "email": "adkjyoti55@gmail.com"
+    },
+    {
+        "name": "Bikraj Shrestha",
+        "batch": 2020,
         "faculty": "Computer Science",
-        "bio": "Hackathons! Community! Music!",
-        "email": "sagarupreti100@gmail.com"
+        "bio": "Who doesnot love coding",
+        "email": "something@gmail.com"
     },
-    {
-      "name": "Prasun Sapkota",
-      "batch": 2020,
-      "faculty": "Computer Science",
-      "bio": "Nothing much.",
-      "email": "prasunsapkota@gmail.com"
-  },
-  {
-      "name": "Bishal Neupane",
-      "batch": 2020,
-      "faculty": "Computer Engineering",
-      "bio": "I love custom ROMs",
-      "email": "neupanebishal2001@gmail.com"
-  },
-     {
-        "name": "Roshan Sahani",
-        "batch": 2020,
-        "faculty": "Computer Engineering",
-        "bio": "Hacking! Chess! Music!",
-        "email": "roshansahani226@gmail.com"
-    },
-
       {
-        "name": "Bibhushan Saakha",
+          "name": "Ankush",
+          "batch": 2019,
+          "faculty": "Computer Engineering",
+          "bio": "PEARL JAM BABY",
+          "email": "ankushdonthavemail@gmail.com"
+      },
+  
+      {
+        "name": "Nirjal Bhurtel",
+        "batch": 2021,
+        "faculty": "Computer Engineering",
+        "bio": "Human",
+        "email": "sunnynirjal@gmail.com"
+    },
+     
+     {
+        "name": "Sadikshya Pokharel",
         "batch": 2020,
         "faculty": "Computer Engineering",
-        "bio": "UI UX",
-        "email": "bibhushansaakha@gmail.com.com"
+        "bio": "Student",
+        "email": "psaishya@gmail.com"
     },
     {
-      "name": "Jyoti Sharma",
-      "batch": 2018,
-      "faculty": "BEIT",
-      "bio": "Mobile App Developer | loves coding at any time of day",
-      "email": "adkjyoti55@gmail.com"
-  },
-  {
-      "name": "Bikraj Shrestha",
+  
+      "name": "Prashant Shrestha",
       "batch": 2020,
       "faculty": "Computer Science",
-      "bio": "Who doesnot love coding",
-      "email": "something@gmail.com"
-  },
-    {
-        "name": "Ankush",
-        "batch": 2019,
-        "faculty": "Computer Engineering",
-        "bio": "PEARL JAM BABY",
-        "email": "ankushdonthavemail@gmail.com"
+      "bio": "Sports - Music - Coding",
+      "email": "prashantstha1110@gmail.com"
     },
-
     {
-      "name": "Nirjal Bhurtel",
-      "batch": 2021,
-      "faculty": "Computer Engineering",
-      "bio": "Human",
-      "email": "sunnynirjal@gmail.com"
-  },
-   
-   {
-      "name": "Sadikshya Pokharel",
+      "name": "Ramesh Khadka",
       "batch": 2020,
+      "faculty": "BIT with Technopreneurship",
+      "bio": "Love to slove any problems",
+      "email": "rkhadka296@gmail.com"
+    },
+    {
+    "name": "Gaurab Shrestha",
+    "batch": 2018,
+    "faculty": "Computer Engineering",
+    "bio": "Football, Travelling & Coding",
+    "email": "gaurabstha001@gmail.com"
+},
+{
+    "name": "Amar Dura",
+    "batch": 2021,
+    "faculty": "Computer Engineering",
+    "bio": "Software Engineering",
+    "email": "dura.email@gmail.com"
+},
+  
+    {
+      "name": "Prajwal Adhikari",
+      "batch": 2020,
+      "faculty": "Computer Science",
+      "bio": "Programming!",
+      "email": "prazolppp@gmail.com"
+  },
+  
+  
+    {
+      "name": "Bibek Pant",
+      "batch": 2019,
+      "faculty": "CSIT",
+      "bio": "Student | Songs | Books",
+      "email": "pantbibek21@gmail.com"
+  },
+  
+      {
+        "name": "Aakriti kc",
+        "batch": 2019,
+        "faculty": "Computational Mathematics",
+        "bio": "Student",
+        "email": "aakriti.kc2076@gmail.com"
+    },
+  
+    {
+      "name": "Sudip Bhattarai",
+      "batch": 2020,
+      "faculty": "Computer Engineering",
+      "bio": "/Student/Music/Guitar",
+      "email": "sudeepbhattarai1792@gmail.com"
+    },
+    {
+      "name": "Om Prakash Sharma",
+      "batch": 2021,
       "faculty": "Computer Engineering",
       "bio": "Student",
-      "email": "psaishya@gmail.com"
+      "email": "om.772417@thc.tu.edu.np"
   },
   {
-    "name": "Ramesh Khadka",
+    "name": "Nabin Khatri",
     "batch": 2020,
-    "faculty": "BIT with Technopreneurship",
-    "bio": "Love to slove any problems",
-    "email": "rkhadka296@gmail.com"
-  },
-    {
-      "name": "Gaurab Shrestha",
-      "batch": 2018,
-      "faculty": "Computer Engineering",
-      "bio": "Football, Travelling & Coding",
-      "email": "gaurabstha001@gmail.com"
+    "faculty": "Computer science",
+    "bio": "Let's learn new things!",
+    "email": "nabinkc7878@gmail.com"
   },
   {
-      "name": "Amar Dura",
-      "batch": 2021,
+      "name": "Anurag Timilsina",
+      "batch": 2019,
       "faculty": "Computer Engineering",
-      "bio": "Software Engineering",
-      "email": "dura.email@gmail.com"
+      "bio": "Stuck in a world of isolation while the ivy grows over the door.",
+      "email": "anurag.timilsina@gmail.com"
   },
-
   {
-    "name": "Prajwal Adhikari",
+    "name": "Nisham Ghimire",
     "batch": 2020,
     "faculty": "Computer Science",
-    "bio": "Programming!",
-    "email": "prazolppp@gmail.com"
-},
-
-
-  {
-    "name": "Bibek Pant",
-    "batch": 2019,
-    "faculty": "CSIT",
-    "bio": "Student | Songs | Books",
-    "email": "pantbibek21@gmail.com"
-},
-
+    "bio": "Life's too short to be dishonest.",
+    "email": "nishamghimire5@gmail.com"
+  },
     {
-      "name": "Aakriti kc",
-      "batch": 2019,
-      "faculty": "Computational Mathematics",
-      "bio": "Student",
-      "email": "aakriti.kc2076@gmail.com"
-  },
-
-  {
-    "name": "Sudip Bhattarai",
+    "name": "Shubham Shakya",
     "batch": 2020,
-    "faculty": "Computer Engineering",
-    "bio": "/Student/Music/Guitar",
-    "email": "sudeepbhattarai1792@gmail.com"
+    "faculty": "Computer Science",
+    "bio": "Programming",
+    "email": "shubhamshakya369@gmail.com"
   },
   {
+    "name": "Nabin Dhakal",
+    "batch": 2020,
+    "faculty": "Computer Science",
+    "bio": "KUCC rocks!",
+    "email": "nabindhakal33@gmail.com"
+  },
+  {
+
     "name": "Om Prakash Sharma",
     "batch": 2021,
     "faculty": "Computer Engineering",
@@ -211,5 +247,21 @@
   "faculty": "Computer Engineering",
   "bio": "Students|Books|",
   "email": "sap.bijayy@gmail.com"
-}
-]
+},
+  {
+    "name": "Saral Sainju",
+    "batch": 2020,
+    "faculty": "Computer Science",
+    "bio": "Worshipping Anime Thighs",
+    "email": "sainju.saral433@gmail.com"
+  },
+  {
+    "name": "Shishir Kafle",
+    "batch": 2020,
+    "faculty": "Computer Science",
+    "bio": "CR7 is GOAT.",
+    "email": "shishirkafle44@gmail.com"
+  }
+  ]
+  
+
