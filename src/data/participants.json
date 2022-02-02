@@ -1,4 +1,48 @@
 [
+  {
+    "name": "Sabin Thapa",
+    "batch": 2018,
+    "faculty": "Computer Engineering",
+    "bio": "I love programming!",
+    "email": "sabint017@gmail.com"
+  },
+  {
+    "name": "Sagar Uprety",
+    "batch": 2018,
+    "faculty": "Computer Science",
+    "bio": "Hackathons! Community! Music!",
+    "email": "sagarupreti100@gmail.com"
+  },
+  {
+    "name": "Ayush Regmi",
+    "batch": 2020,
+    "faculty": "Computer Engineering",
+    "bio": "Programming! Music! Movies!",
+    "email": "ayushregmi736@gmail.com"
+  },
+  {
+    "name": "Ashish Poudel",
+    "batch": 2018,
+    "faculty": "Computer Application",
+    "bio": "Learning , Travelling",
+    "email": "ashishpoudel523@gmail.com"
+  },
+  {
+    "name": "Bisheshwor Neupane",
+    "batch": 2018,
+    "faculty": "Computer Engineering",
+    "bio": "Programming with a Music",
+    "email": "eroj.nyoupane2@gmail.com"
+  },
+  {
+        "name": "Shreya Shrestha",
+        "batch": 2018,
+        "faculty": "Computer Science",
+        "bio": "I love coding and reading books",
+        "email": "shreya2057@gmail.com"
+       
+    },
+
         {
         "name": "Sabin Thapa",
         "batch": 2018,
@@ -19,5 +63,125 @@
       "faculty": "Computer Engineering",
       "bio": "I love custom ROMs",
       "email": "neupanebishal2001@gmail.com"
-  }
+  },
+     {
+        "name": "Roshan Sahani",
+        "batch": 2020,
+        "faculty": "Computer Engineering",
+        "bio": "Hacking! Chess! Music!",
+        "email": "roshansahani226@gmail.com"
+    },
+
+      {
+        "name": "Bibhushan Saakha",
+        "batch": 2020,
+        "faculty": "Computer Engineering",
+        "bio": "UI UX",
+        "email": "bibhushansaakha@gmail.com.com"
+    },
+    {
+      "name": "Jyoti Sharma",
+      "batch": 2018,
+      "faculty": "BEIT",
+      "bio": "Mobile App Developer | loves coding at any time of day",
+      "email": "adkjyoti55@gmail.com"
+  },
+  {
+      "name": "Bikraj Shrestha",
+      "batch": 2020,
+      "faculty": "Computer Science",
+      "bio": "Who doesnot love coding",
+      "email": "something@gmail.com"
+  },
+    {
+        "name": "Ankush",
+        "batch": 2019,
+        "faculty": "Computer Engineering",
+        "bio": "PEARL JAM BABY",
+        "email": "ankushdonthavemail@gmail.com"
+    },
+
+    {
+      "name": "Nirjal Bhurtel",
+      "batch": 2021,
+      "faculty": "Computer Engineering",
+      "bio": "Human",
+      "email": "sunnynirjal@gmail.com"
+  },
+   
+   {
+      "name": "Sadikshya Pokharel",
+      "batch": 2020,
+      "faculty": "Computer Engineering",
+      "bio": "Student",
+      "email": "psaishya@gmail.com"
+  },
+  {
+    "name": "Ramesh Khadka",
+    "batch": 2020,
+    "faculty": "BIT with Technopreneurship",
+    "bio": "Love to slove any problems",
+    "email": "rkhadka296@gmail.com"
+  },
+    {
+      "name": "Gaurab Shrestha",
+      "batch": 2018,
+      "faculty": "Computer Engineering",
+      "bio": "Football, Travelling & Coding",
+      "email": "gaurabstha001@gmail.com"
+  },
+  {
+      "name": "Amar Dura",
+      "batch": 2021,
+      "faculty": "Computer Engineering",
+      "bio": "Software Engineering",
+      "email": "dura.email@gmail.com"
+  },
+
+  {
+    "name": "Prajwal Adhikari",
+    "batch": 2020,
+    "faculty": "Computer Science",
+    "bio": "Programming!",
+    "email": "prazolppp@gmail.com"
+},
+
+
+  {
+    "name": "Bibek Pant",
+    "batch": 2019,
+    "faculty": "CSIT",
+    "bio": "Student | Songs | Books",
+    "email": "pantbibek21@gmail.com"
+},
+
+    {
+      "name": "Aakriti kc",
+      "batch": 2019,
+      "faculty": "Computational Mathematics",
+      "bio": "Student",
+      "email": "aakriti.kc2076@gmail.com"
+  },
+
+  {
+    "name": "Sudip Bhattarai",
+    "batch": 2020,
+    "faculty": "Computer Engineering",
+    "bio": "/Student/Music/Guitar",
+    "email": "sudeepbhattarai1792@gmail.com"
+  },
+  {
+    "name": "Om Prakash Sharma",
+    "batch": 2021,
+    "faculty": "Computer Engineering",
+    "bio": "Student",
+    "email": "om.772417@thc.tu.edu.np"
+},
+{
+  "name": "Nabin Khatri",
+  "batch": 2020,
+  "faculty": "Computer science",
+  "bio": "Let's learn new things!",
+  "email": "nabinkc7878@gmail.com"
+}
 ]
