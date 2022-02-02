@@ -33,5 +33,13 @@
       "faculty": "Computer Engineering",
       "bio": "Student",
       "email": "psaishya@gmail.com"
+  },
+  {
+    "name": "Ramesh Khadka",
+    "batch": 2020,
+    "faculty": "BIT with Technopreneurship",
+    "bio": "Love to slove any problems",
+    "email": "rkhadka296@gmail.com"
   }
+
 ]
