@@ -1,3 +1,4 @@
+
 # Git & GitHub: All you need to know
 
 **Welcome everyone! This is a profile-card website made with React.js for Git-GitHub Workshop**
@@ -11,9 +12,14 @@ The project requries [Node.js](https://nodejs.org/en/download/) v14 or above.
 Once cloned, open the project directory and run the following commands:
 
 ```
-npm i
+npm install
 npm run start 
 ```
+
+# Website Link
+
+https://kucc-git-github-2022.netlify.app/
+
 
 ## How to contribute?
 
