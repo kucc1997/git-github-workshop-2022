@@ -49,7 +49,7 @@
     "faculty": "Computer Science",
     "bio": "I love coding and reading books",
     "email": "shreya2057@gmail.com"
-    
+
 },
       {
         "name": "Prasun Sapkota",
@@ -72,7 +72,7 @@
           "bio": "Hacking! Chess! Music!",
           "email": "roshansahani226@gmail.com"
       },
-  
+
         {
           "name": "Bibhushan Saakha",
           "batch": 2020,
@@ -93,7 +93,7 @@
         "faculty": "Computer Science",
        "bio": "Who doesnot love coding",
         "email": "something@gmail.com"
-    
+
     },
     {
       "name": "Nischal Baral",
@@ -109,7 +109,7 @@
           "bio": "PEARL JAM BABY",
           "email": "ankushdonthavemail@gmail.com"
       },
-  
+
       {
         "name": "Nirjal Bhurtel",
         "batch": 2021,
@@ -124,7 +124,7 @@
         "bio": "LET'S CODE",
         "email": "Khatridipen7@gmail.com"
     },
-     
+
      {
         "name": "Sadikshya Pokharel",
         "batch": 2020,
@@ -134,7 +134,7 @@
         "githubProjectUrl": "https://github.com/psaishya/Github-workshop-repo.git"
     },
     {
-  
+
       "name": "Prashant Shrestha",
       "batch": 2020,
       "faculty": "Computer Science",
@@ -162,7 +162,7 @@
     "bio": "Software Engineering",
     "email": "dura.email@gmail.com"
 },
-  
+
     {
       "name": "Prajwal Adhikari",
       "batch": 2020,
@@ -170,8 +170,8 @@
       "bio": "Programming!",
       "email": "prazolppp@gmail.com"
   },
-  
-  
+
+
     {
       "name": "Bibek Pant",
       "batch": 2019,
@@ -179,7 +179,7 @@
       "bio": "Student | Songs | Books",
       "email": "pantbibek21@gmail.com"
   },
-  
+
       {
         "name": "Aakriti kc",
         "batch": 2019,
@@ -187,7 +187,7 @@
         "bio": "Student",
         "email": "aakriti.kc2076@gmail.com"
     },
-  
+
     {
       "name": "Sudip Bhattarai",
       "batch": 2020,
@@ -307,7 +307,12 @@
     "faculty": "Computer Engineering",
     "bio": "Aspiring systems programmer",
     "email": "ashish.thapa477@gmail.com"
-   }
+  },
+  {
+     "name": "Prekshya Dawadi",
+     "batch": 2020,
+     "faculty": "Computer science",
+     "bio": "Constantly in existential crisis.",
+     "email": "prekshya019@gmail.com"
+  }
   ]
-  
-
