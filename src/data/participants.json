@@ -1,5 +1,12 @@
 [
   {
+    "name": "Sansakar Karki",
+    "batch": 2020,
+    "faculty": "Computer Science",
+    "bio": "Learning Git and Github is Fun.",
+    "email": "sanskarkarki20@gmail.com"
+  },
+  {
     "name": "Sabin Thapa",
     "batch": 2018,
     "faculty": "Computer Engineering",
