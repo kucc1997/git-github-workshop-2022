@@ -40,7 +40,16 @@
         "faculty": "Computer Science",
         "bio": "I love coding and reading books",
         "email": "shreya2057@gmail.com"
-   },
+       
+    },
+    {
+      "name": "Nirjal Bhurtel",
+      "batch": 2021,
+      "faculty": "Computer Engineering",
+      "bio": "Human",
+      "email": "sunnynirjal@gmail.com"
+  },
+   
    {
       "name": "Sadikshya Pokharel",
       "batch": 2020,
@@ -88,5 +97,6 @@
     "bio": "Student",
     "email": "om.772417@thc.tu.edu.np"
 }
+
 
 ]
