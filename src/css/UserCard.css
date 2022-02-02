@@ -28,6 +28,12 @@
   text-align: center;
   padding-top: 2%;
   border-bottom: 1px solid #fff;
+  padding-bottom: 1rem;
+}
+
+.header-title h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
 }
 
 .footer {
@@ -45,3 +51,16 @@
   color: #38c0ce;
   font-size: 1.2rem;
 }
+
+@media only screen and (max-width: 700px) {
+  .header-title h1 {
+    font-size: 20px;
+  }
+
+  .card {
+    width: 250px;
+  }
+  .card-body p {
+    font-size: 16px;
+  }
+} ;
