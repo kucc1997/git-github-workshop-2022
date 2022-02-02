@@ -197,5 +197,12 @@
   "faculty": "Computer science",
   "bio": "Let's learn new things!",
   "email": "nabinkc7878@gmail.com"
-}
+},
+{
+    "name": "Anurag Timilsina",
+    "batch": 2019,
+    "faculty": "Computer Engineering",
+    "bio": "Stuck in a world of isolation while the ivy grows over the door.",
+    "email": "anurag.timilsina@gmail.com"
+},
 ]
