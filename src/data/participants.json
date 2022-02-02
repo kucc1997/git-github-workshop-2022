@@ -50,6 +50,20 @@
         "bio": "I love programming!",
         "email": "sabint017@gmail.com"
     },
+      {
+        "name": "Sagar Uprety",
+        "batch": 2018,
+        "faculty": "Computer Science",
+        "bio": "Hackathons! Community! Music!",
+        "email": "sagarupreti100@gmail.com"
+    },
+    {
+      "name": "Bikraj Shrestha",
+      "batch": 2020,
+      "faculty": "Computer Science",
+      "bio": "Who doesnot love coding",
+      "email": "something@gmail.com"
+  },
     {
         "name": "Ankush",
         "batch": 2019,
