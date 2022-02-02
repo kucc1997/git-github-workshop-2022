@@ -297,7 +297,14 @@
     "faculty": "Computer Science",
     "bio": "I love Hackathons!",
     "email": "rocky@gmail.com"
-  }
+  },
+  {
+    "name": "Ashish Thapa",
+    "batch": 2019,
+    "faculty": "Computer Engineering",
+    "bio": "Aspiring systems programmer",
+    "email": "ashish.thapa477@gmail.com"
+   }
   ]
   
 
