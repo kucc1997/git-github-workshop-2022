@@ -56,11 +56,19 @@
   .header-title h1 {
     font-size: 20px;
   }
-
   .card {
-    width: 250px;
+    width: 180px;
   }
   .card-body p {
-    font-size: 16px;
+    font-size: 12px;
+  }
+
+  .footer p {
+    font-size: 12px;
+  }
+  .card-title {
+    padding-bottom: 1.2rem;
+    font-weight: 800;
+    font-size: 0.8rem;
   }
 } ;

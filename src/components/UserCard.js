@@ -22,9 +22,9 @@ const UserCard = ({ participant }) => {
         {participant.githubProjectUrl && (
           <a
             href={participant.githubProjectUrl}
-            style={{ marginLeft: 4 }}
             target="_blank"
             rel="noreferrer"
+            className="repo-link"
           >
             Repository Link
           </a>
