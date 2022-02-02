@@ -1,5 +1,6 @@
 import React from "react";
 import "../css/UserCard.css";
+import { SocialIcon } from "react-social-icons";
 
 const UserCard = ({ participant }) => {
   return (
@@ -10,6 +11,17 @@ const UserCard = ({ participant }) => {
         <p>📅 Batch of {participant.batch}</p>
         <p>✏️ {participant.bio}</p>
         <p>📧 {participant.email}</p>
+        <SocialIcon
+          url={
+            participant.githubProjectUrl
+              ? participant.githubProjectUrl
+              : "https://github.com"
+          }
+          style={{ height: 25, width: 25, marginLeft: -2 }}
+        />
+        <a href={participant.githubProjectUrl} style={{ marginLeft: 4 }}>
+          Repository Link
+        </a>
       </div>
     </div>
   );

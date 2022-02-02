@@ -4,14 +4,16 @@
       "batch": 2018,
       "faculty": "Computer Engineering",
       "bio": "I love programming!",
-      "email": "sabint017@gmail.com"
+      "email": "sabint017@gmail.com",
+      "githubProjectUrl": "https://github.com/sabint017/git-github-workshop-2022"
     },
     {
       "name": "Sagar Uprety",
       "batch": 2018,
       "faculty": "Computer Science",
       "bio": "Hackathons! Community! Music!",
-      "email": "sagarupreti100@gmail.com"
+      "email": "sagarupreti100@gmail.com",
+      "githubProjectUrl": "https://github.com/sabint017/git-github-workshop-2022"
     },
       {
       "name": "Bisheshwor Neupane",
@@ -255,14 +257,7 @@
   "faculty": "Computer science",
   "bio": "Let's learn new things!",
   "email": "nabinkc7878@gmail.com"
-},
-{
-    "name": "Anurag Timilsina",
-    "batch": 2019,
-    "faculty": "Computer Engineering",
-    "bio": "Stuck in a world of isolation while the ivy grows over the door.",
-    "email": "anurag.timilsina@gmail.com"
-},
+},s
   {
   "name": "Kriti Prajapati",
   "batch": 2017,
@@ -297,12 +292,6 @@
     "faculty": "Computer Engineering",
     "bio": "Big Bull",
     "email": "1sangamghimire1@gmail.com"
-  },
-    "name": "Rocky",
-    "batch": 2021,
-    "faculty": "Computer Science",
-    "bio": "I love Hackathons!",
-    "email": "rocky@gmail.com"
   },
   {
     "name": "Rocky",
