@@ -89,9 +89,17 @@
         "name": "Bikraj Shrestha",
         "batch": 2020,
         "faculty": "Computer Science",
-        "bio": "Who doesnot love coding",
+       "bio": "Who doesnot love coding",
         "email": "something@gmail.com"
+    
     },
+    {
+      "name": "Nischal Baral",
+      "batch": 2020,
+      "faculty": "Computer Engineering",
+      "bio": "Gaming is life",
+      "email": "nischalbaral267@gmail.com"
+  },
       {
           "name": "Ankush",
           "batch": 2019,
