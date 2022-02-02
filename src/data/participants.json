@@ -58,6 +58,13 @@
         "email": "sagarupreti100@gmail.com"
     },
     {
+      "name": "Jyoti Sharma",
+      "batch": 2018,
+      "faculty": "BEIT",
+      "bio": "Mobile App Developer | loves coding at any time of day",
+      "email": "adkjyoti55@gmail.com"
+  },
+  {
       "name": "Bikraj Shrestha",
       "batch": 2020,
       "faculty": "Computer Science",
@@ -148,5 +155,4 @@
   "bio": "Let's learn new things!",
   "email": "nabinkc7878@gmail.com"
 }
-
 ]
