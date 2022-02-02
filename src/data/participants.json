@@ -228,7 +228,8 @@
     "batch": 2020,
     "faculty": "Computer Science",
     "bio": "Life's too short to be dishonest.",
-    "email": "nishamghimire5@gmail.com"
+    "email": "nishamghimire5@gmail.com",
+      "githubProjectUrl": "https://github.com/nishamghimire5/expense_tracker"
   },
     {
     "name": "Shubham Shakya",
