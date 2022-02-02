@@ -1,12 +1,5 @@
 [
   {
-    "name": "Nisham Ghimire",
-    "batch": 2020,
-    "faculty": "Computer Science",
-    "bio": "Life's too short to be dishonest.",
-    "email": "nishamghimire5@gmail.com"
-  },
-  {
     "name": "Sanskar Karki",
     "batch": 2020,
     "faculty": "Computer Science",
@@ -211,5 +204,12 @@
     "faculty": "Computer Engineering",
     "bio": "Stuck in a world of isolation while the ivy grows over the door.",
     "email": "anurag.timilsina@gmail.com"
+},
+{
+  "name": "Nisham Ghimire",
+  "batch": 2020,
+  "faculty": "Computer Science",
+  "bio": "Life's too short to be dishonest.",
+  "email": "nishamghimire5@gmail.com"
 },
 ]
