@@ -9,8 +9,8 @@ const App = () => {
   return (
     <div className="App">
       <Header />
+      <h2>Successful PR Merge Count: {Participants.length} 🔥</h2>
       <div className="main-content">
-        <h2>Successful PR Merge Count: {Participants.length} 🔥</h2>
         <div className="card-list">
           {Participants.map((participant) => {
             return (

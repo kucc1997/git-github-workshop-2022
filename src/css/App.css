@@ -13,7 +13,26 @@
   margin: 0 4% 4% 4%;
 }
 
+.App h2 {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
 .card-list {
   display: flex;
   flex-wrap: wrap;
 }
+
+@media only screen and (max-width: 700px) {
+  .card-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -0.2rem;
+  }
+
+  .App h2 {
+    text-align: center;
+  }
+} ;
