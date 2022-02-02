@@ -20,6 +20,10 @@ npm run start
 
 https://kucc-git-github-2022.netlify.app/
 
+# Resources Link
+
+https://bit.ly/githubkucontent
+
 
 ## How to contribute?
 
