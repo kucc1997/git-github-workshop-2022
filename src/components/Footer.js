@@ -10,15 +10,15 @@ const Footer = () => {
         <SocialIcon
           url="http://kucc.ku.edu.np/"
           bgColor="#38c0ce"
-          style={{ height: 40, width: 40, marginRight: "15px" }}
+          style={{ height: 25, width: 25, marginRight: "15px" }}
         />
         <SocialIcon
           url="https://www.facebook.com/kucc1997"
-          style={{ height: 40, width: 40, marginRight: "15px" }}
+          style={{ height: 25, width: 25, marginRight: "15px" }}
         />
         <SocialIcon
           url="https://github.com/kucc1997"
-          style={{ height: 40, width: 40 }}
+          style={{ height: 25, width: 25 }}
         />
       </div>
     </div>
