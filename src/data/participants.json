@@ -33,5 +33,12 @@
       "faculty": "Computer Engineering",
       "bio": "Student",
       "email": "psaishya@gmail.com"
+  },
+    {
+      "name": "Adhishree Acharya",
+      "batch": 2020,
+      "faculty": "Computer Engineering",
+      "bio": "Student",
+      "email": "acharyaadhishree87@gmail.com"
   }
 ]
