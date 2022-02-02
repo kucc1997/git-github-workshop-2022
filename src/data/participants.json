@@ -87,6 +87,13 @@
       "bio": "Student",
       "email": "psaishya@gmail.com"
   },
+  {
+      "name": "Amar Dura",
+      "batch": 2021,
+      "faculty": "Computer Engineering",
+      "bio": "Software Engineering",
+      "email": "dura.email@gmail.com"
+  },
 
   {
     "name": "Prajwal Adhikari",
