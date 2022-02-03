@@ -303,5 +303,12 @@
      "faculty": "Computer science",
      "bio": "Constantly in existential crisis.",
      "email": "prekshya019@gmail.com"
+  },
+  {
+    "name": "Shashanka Luitel",
+    "batch": 2020,
+    "faculty": "Computer Engineering",
+    "bio": "Football is love!!",
+    "email": "sbishalluitel7@gmail.com"
   }
   ]
