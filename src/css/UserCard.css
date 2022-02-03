@@ -71,4 +71,20 @@
     font-weight: 800;
     font-size: 0.8rem;
   }
-} ;
+}
+
+.search-box {
+  padding-top: 1rem;
+  width: 400px;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+}
+
+.search-input {
+  width: 85%;
+  border: 1px solid #1c76d2;
+  padding: 8px;
+  border-radius: 5px;
+  outline: none;
+}
