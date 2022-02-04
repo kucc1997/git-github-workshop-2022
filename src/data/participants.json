@@ -312,5 +312,13 @@
     "faculty": "Computer Engineering",
     "bio": "Football is love!!",
     "email": "sbishalluitel7@gmail.com"
-  }
+  },
+    {
+      "name": "Pratik Devkota",
+      "batch": 2020,
+      "faculty": "Software Engineering",
+      "bio": "Just someone trying to do something.",
+      "email": "pratikpd96@gmail.com",
+      "githubProjectUrl": "https://github.com/pratik-devkota/git-github-workshop-2022"
+    }
   ]
