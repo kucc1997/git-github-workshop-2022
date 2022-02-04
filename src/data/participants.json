@@ -320,5 +320,12 @@
       "bio": "Just someone trying to do something.",
       "email": "pratikpd96@gmail.com",
       "githubProjectUrl": "https://github.com/pratik-devkota/git-github-workshop-2022"
+    },
+    {
+      "name": "Riccardo Versetti",
+      "batch": 2020,
+      "faculty": "Computer Engineering",
+      "bio": "Coding from home",
+      "email": "verso1.ctf@protonmail.com"
     }
   ]
