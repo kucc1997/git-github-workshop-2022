@@ -326,6 +326,7 @@
       "batch": 2020,
       "faculty": "Computer Engineering",
       "bio": "Coding from home",
-      "email": "verso1.ctf@protonmail.com"
+      "email": "verso1.ctf@protonmail.com",
+      "githubProjectUrl": "https://github.com/verso1/github-workshop-repo"
     }
   ]
