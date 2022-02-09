@@ -246,7 +246,8 @@
     "batch": 2021,
     "faculty": "Computer Engineering",
     "bio": "Student",
-    "email": "om.772417@thc.tu.edu.np"
+    "email": "om.772417@thc.tu.edu.np",
+    "githubProjectUrl": "https://github.com/ompiepy/AssignmentSubmitter"
 },
 {
   "name": "Nabin Khatri",
